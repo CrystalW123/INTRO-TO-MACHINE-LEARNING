@@ -236,6 +236,7 @@ streamlit run app.py
 ```
 
 Streamlit will provide a local URL where the application can be opened in a browser.
+The app is deployed as well. [IncomeProt Link](https://intro-to-machine-learning-ttduqt8momnlns5tmptfxb.streamlit.app/batch_prediction)
 
 ---
 
